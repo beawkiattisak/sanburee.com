@@ -12,7 +12,7 @@ export default function Home() {
           Kiattisak Sanburee<br />
         </span>
         <span className="text-[20px] sm:text-[22px] tracking-tight leading-tight">
-          competitive programming and mathematics lover.<br />
+          competitive programming (c++) and mathematics lover.<br />
           Currently studying at Assumption College Rayong in the Engineering Program.<br />
         </span>
         <div className="pt-4">
