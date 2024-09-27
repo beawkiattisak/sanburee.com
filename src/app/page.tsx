@@ -15,20 +15,20 @@ export default function Home() {
           competitive programming (c++) and mathematics lover.<br />
           Currently studying at Assumption College Rayong in the Engineering Program.<br />
         </span>
-        <div className="pt-4">
-          <a href="https://github.com/beawkiattisak" target="_blank" rel="noopener noreferrer" className="text-[20px] sm:text-[22px] text-[#285577] mr-4 underline">
-            github
-          </a>
-          <a href="https://www.facebook.com/kiattisakbeawsanburee/" target="_blank" rel="noopener noreferrer" className="text-[20px] sm:text-[22px] underline text-[#285577] mr-4">
-            facebook
-          </a>
-          <a href="https://www.instagram.com/kiatiss/" target="_blank" rel="noopener noreferrer" className="text-[20px] sm:text-[22px] text-[#285577] mr-4 underline">
-            instagram
-          </a>
-          <a href="https://codeforces.com/profile/beawkiattisak" target="_blank" rel="noopener noreferrer" className="text-[20px] sm:text-[22px] text-[#285577] underline">
-            codeforces
-          </a>
-        </div>
+        <div className="flex flex-wrap pt-4">
+        <a href="https://github.com/beawkiattisak" target="_blank" rel="noopener noreferrer" className="text-[20px] sm:text-[22px] text-[#285577] mr-4 underline">
+          github
+        </a>
+        <a href="https://www.facebook.com/kiattisakbeawsanburee/" target="_blank" rel="noopener noreferrer" className="text-[20px] sm:text-[22px] underline text-[#285577] mr-4">
+          facebook
+        </a>
+        <a href="https://www.instagram.com/kiatiss/" target="_blank" rel="noopener noreferrer" className="text-[20px] sm:text-[22px] text-[#285577] mr-4 underline">
+          instagram
+        </a>
+        <a href="https://codeforces.com/profile/beawkiattisak" target="_blank" rel="noopener noreferrer" className="text-[20px] sm:text-[22px] text-[#285577] underline">
+          codeforces
+        </a>
+      </div>
         <hr className="h-px my-8 bg-gray-300 border-0" />
         <span className="text-[44px] sm:text-[56px] tracking-tight leading-tight">
           My setup<br />
