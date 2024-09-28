@@ -51,6 +51,7 @@ export default function Home() {
         <span className="text-[20px] sm:text-[22px] tracking-tight leading-tight">Depa Coding War (Eastern region) <span className="text-[#5F676A]">(1st Place)</span><br/></span>
         <span className="text-[20px] sm:text-[22px] tracking-tight leading-tight">Depa Coding War (Final Round) <span className="text-[#5F676A]">(3rd Place)</span><br/></span>
         <span className="text-[20px] sm:text-[22px] tracking-tight leading-tight">Thailand Cyber Top Talent 2023 <span className="text-[#5F676A]">(8th Place)</span><br/></span>
+        <span className="text-[20px] sm:text-[22px] tracking-tight leading-tight">Thailand Cyber Top Talent 2024 <span className="text-[#5F676A]">(6th Place)</span><br/></span>
         <span className="text-[20px] sm:text-[22px] tracking-tight leading-tight">5th Kibo Robot Programming Challenge <span className="text-[#5F676A]">(12th Place)</span><br/></span>
         <span className="text-[20px] sm:text-[22px] tracking-tight leading-tight">Assumption College Rayong Online voting system <a href="https://vote.sanburee.com/voting2024" className="text-[#285577] underline">link<br/></a></span>
         <span className="text-[20px] sm:text-[22px] tracking-tight leading-tight">Student Council (Digital Leader) <span className="text-[#5F676A]">(2023-2024)</span><br/></span>
